@@ -13,8 +13,8 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
-[video1]: ./test_videos_output/solidWhiteRight.mp4
-[video2]: ./test_videos_output/solidYellowLeft.mp4
+[video1]: ./test_videos_output/solidWhiteRight.mp4 "video1"
+[video2]: ./test_videos_output/solidYellowLeft.mp4 "video2"
 
 ---
 
@@ -31,8 +31,8 @@ My pipeline consisted of 6 steps.
 - The lines were then applied to each of the frames in the supplied videos
 
 Here are some of the output files where the algorithm has been incorporated:
-![alt text][video1]
-![alt text][video2]
+![solidWhiteRight][video1]
+![solidYellowLeft][video2]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
